@@ -1,4 +1,4 @@
-#Recopilatorio de material de la Barcelona Software Craftmanship 2017
+# Recopilatorio de material de la Barcelona Software Craftmanship 2017
 
 **Twitter:** https://twitter.com/bcnswcraft  
 **Hashtag:** [#scbcn17](https://twitter.com/search?q=%23scbcn17)  
